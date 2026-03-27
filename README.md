@@ -44,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/happymaurya/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/happymaurya/DSA/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
