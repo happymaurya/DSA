@@ -43,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/happymaurya/DSA/tree/master/0062-unique-paths) |
 | [0115-distinct-subsequences](https://github.com/happymaurya/DSA/tree/master/0115-distinct-subsequences) |
 | [2573-find-the-string-with-lcp](https://github.com/happymaurya/DSA/tree/master/2573-find-the-string-with-lcp) |
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/happymaurya/DSA/tree/master/0062-unique-paths) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/happymaurya/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Simulation
 |  |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/happymaurya/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/happymaurya/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
