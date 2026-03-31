@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/happymaurya/DSA/tree/master/0036-valid-sudoku) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/happymaurya/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0139-word-break](https://github.com/happymaurya/DSA/tree/master/0139-word-break) |
 | [2573-find-the-string-with-lcp](https://github.com/happymaurya/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/happymaurya/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/happymaurya/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/happymaurya/DSA/tree/master/0036-valid-sudoku) |
+| [0139-word-break](https://github.com/happymaurya/DSA/tree/master/0139-word-break) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/happymaurya/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/happymaurya/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Matrix
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/happymaurya/DSA/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/happymaurya/DSA/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/happymaurya/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2573-find-the-string-with-lcp](https://github.com/happymaurya/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/happymaurya/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/happymaurya/DSA/tree/master/0062-unique-paths) |
 | [0115-distinct-subsequences](https://github.com/happymaurya/DSA/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/happymaurya/DSA/tree/master/0139-word-break) |
 | [2573-find-the-string-with-lcp](https://github.com/happymaurya/DSA/tree/master/2573-find-the-string-with-lcp) |
 ## Math
 |  |
@@ -105,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/happymaurya/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/happymaurya/DSA/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/happymaurya/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
