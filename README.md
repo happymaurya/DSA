@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/happymaurya/DSA/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/happymaurya/DSA/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/happymaurya/DSA/tree/master/0152-maximum-product-subarray) |
+| [0221-maximal-square](https://github.com/happymaurya/DSA/tree/master/0221-maximal-square) |
 | [0874-walking-robot-simulation](https://github.com/happymaurya/DSA/tree/master/0874-walking-robot-simulation) |
 | [2573-find-the-string-with-lcp](https://github.com/happymaurya/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/happymaurya/DSA/tree/master/2751-robot-collisions) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/happymaurya/DSA/tree/master/0036-valid-sudoku) |
+| [0221-maximal-square](https://github.com/happymaurya/DSA/tree/master/0221-maximal-square) |
 | [2573-find-the-string-with-lcp](https://github.com/happymaurya/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/happymaurya/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/happymaurya/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/happymaurya/DSA/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/happymaurya/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/happymaurya/DSA/tree/master/0152-maximum-product-subarray) |
+| [0221-maximal-square](https://github.com/happymaurya/DSA/tree/master/0221-maximal-square) |
 | [2573-find-the-string-with-lcp](https://github.com/happymaurya/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/happymaurya/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/happymaurya/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
