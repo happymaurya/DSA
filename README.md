@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/happymaurya/DSA/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/happymaurya/DSA/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/happymaurya/DSA/tree/master/0221-maximal-square) |
+| [0304-range-sum-query-2d-immutable](https://github.com/happymaurya/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0874-walking-robot-simulation](https://github.com/happymaurya/DSA/tree/master/0874-walking-robot-simulation) |
 | [2573-find-the-string-with-lcp](https://github.com/happymaurya/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/happymaurya/DSA/tree/master/2751-robot-collisions) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/happymaurya/DSA/tree/master/0036-valid-sudoku) |
 | [0221-maximal-square](https://github.com/happymaurya/DSA/tree/master/0221-maximal-square) |
+| [0304-range-sum-query-2d-immutable](https://github.com/happymaurya/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [2573-find-the-string-with-lcp](https://github.com/happymaurya/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/happymaurya/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/happymaurya/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/happymaurya/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/happymaurya/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 ## String
 |  |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/happymaurya/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0304-range-sum-query-2d-immutable](https://github.com/happymaurya/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [2069-walking-robot-simulation-ii](https://github.com/happymaurya/DSA/tree/master/2069-walking-robot-simulation-ii) |
 ## Binary Tree
 |  |
