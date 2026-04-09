@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/happymaurya/DSA/tree/master/0092-reverse-linked-list-ii) |
+| [0328-odd-even-linked-list](https://github.com/happymaurya/DSA/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/happymaurya/DSA/tree/master/0382-linked-list-random-node) |
 ## Reservoir Sampling
 |  |
