@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/happymaurya/DSA/tree/master/0221-maximal-square) |
 | [0260-single-number-iii](https://github.com/happymaurya/DSA/tree/master/0260-single-number-iii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/happymaurya/DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [0494-target-sum](https://github.com/happymaurya/DSA/tree/master/0494-target-sum) |
 | [0874-walking-robot-simulation](https://github.com/happymaurya/DSA/tree/master/0874-walking-robot-simulation) |
 | [2573-find-the-string-with-lcp](https://github.com/happymaurya/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/happymaurya/DSA/tree/master/2751-robot-collisions) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/happymaurya/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/happymaurya/DSA/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/happymaurya/DSA/tree/master/0221-maximal-square) |
+| [0494-target-sum](https://github.com/happymaurya/DSA/tree/master/0494-target-sum) |
 | [2573-find-the-string-with-lcp](https://github.com/happymaurya/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/happymaurya/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/happymaurya/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/happymaurya/DSA/tree/master/0260-single-number-iii) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/happymaurya/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
