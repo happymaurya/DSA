@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/happymaurya/DSA/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/happymaurya/DSA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/happymaurya/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/happymaurya/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/happymaurya/DSA/tree/master/0139-word-break) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/happymaurya/DSA/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/happymaurya/DSA/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/happymaurya/DSA/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/happymaurya/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [2573-find-the-string-with-lcp](https://github.com/happymaurya/DSA/tree/master/2573-find-the-string-with-lcp) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/happymaurya/DSA/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/happymaurya/DSA/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/happymaurya/DSA/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/happymaurya/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/happymaurya/DSA/tree/master/0079-word-search) |
 | [0210-course-schedule-ii](https://github.com/happymaurya/DSA/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/happymaurya/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/happymaurya/DSA/tree/master/0310-minimum-height-trees) |
@@ -223,5 +227,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/happymaurya/DSA/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/happymaurya/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
