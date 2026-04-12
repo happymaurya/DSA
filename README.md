@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/happymaurya/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/happymaurya/DSA/tree/master/0394-decode-string) |
 | [0657-robot-return-to-origin](https://github.com/happymaurya/DSA/tree/master/0657-robot-return-to-origin) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/happymaurya/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/happymaurya/DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2573-find-the-string-with-lcp](https://github.com/happymaurya/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/happymaurya/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/happymaurya/DSA/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/happymaurya/DSA/tree/master/0221-maximal-square) |
 | [0494-target-sum](https://github.com/happymaurya/DSA/tree/master/0494-target-sum) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/happymaurya/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2573-find-the-string-with-lcp](https://github.com/happymaurya/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/happymaurya/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/happymaurya/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
