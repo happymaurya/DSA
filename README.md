@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/happymaurya/DSA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/happymaurya/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/happymaurya/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/happymaurya/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/happymaurya/DSA/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/happymaurya/DSA/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/happymaurya/DSA/tree/master/0152-maximum-product-subarray) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/happymaurya/DSA/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/happymaurya/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/happymaurya/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/happymaurya/DSA/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/happymaurya/DSA/tree/master/0149-max-points-on-a-line) |
 | [0874-walking-robot-simulation](https://github.com/happymaurya/DSA/tree/master/0874-walking-robot-simulation) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/happymaurya/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [2573-find-the-string-with-lcp](https://github.com/happymaurya/DSA/tree/master/2573-find-the-string-with-lcp) |
 ## Tree
 |  |
