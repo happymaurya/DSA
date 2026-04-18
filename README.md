@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/happymaurya/DSA/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/happymaurya/DSA/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/happymaurya/DSA/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/happymaurya/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/happymaurya/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/happymaurya/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/happymaurya/DSA/tree/master/0394-decode-string) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/happymaurya/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/happymaurya/DSA/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/happymaurya/DSA/tree/master/0221-maximal-square) |
+| [0241-different-ways-to-add-parentheses](https://github.com/happymaurya/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0494-target-sum](https://github.com/happymaurya/DSA/tree/master/0494-target-sum) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/happymaurya/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2463-minimum-total-distance-traveled](https://github.com/happymaurya/DSA/tree/master/2463-minimum-total-distance-traveled) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/happymaurya/DSA/tree/master/0062-unique-paths) |
 | [0149-max-points-on-a-line](https://github.com/happymaurya/DSA/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/happymaurya/DSA/tree/master/0223-rectangle-area) |
+| [0241-different-ways-to-add-parentheses](https://github.com/happymaurya/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0382-linked-list-random-node](https://github.com/happymaurya/DSA/tree/master/0382-linked-list-random-node) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/happymaurya/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/happymaurya/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/happymaurya/DSA/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/happymaurya/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/happymaurya/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/happymaurya/DSA/tree/master/0394-decode-string) |
 ## Linked List
 |  |
