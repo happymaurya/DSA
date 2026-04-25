@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/happymaurya/DSA/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/happymaurya/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/happymaurya/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/happymaurya/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/happymaurya/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/happymaurya/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/happymaurya/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/happymaurya/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0382-linked-list-random-node](https://github.com/happymaurya/DSA/tree/master/0382-linked-list-random-node) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/happymaurya/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/happymaurya/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/happymaurya/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/happymaurya/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 ## Simulation
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/happymaurya/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/happymaurya/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/happymaurya/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/happymaurya/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/happymaurya/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Sorting
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/happymaurya/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/happymaurya/DSA/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/happymaurya/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/happymaurya/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/happymaurya/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Combinatorics
 |  |
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/happymaurya/DSA/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/happymaurya/DSA/tree/master/0223-rectangle-area) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/happymaurya/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Graph Theory
 |  |
 | ------- |
