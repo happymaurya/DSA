@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/happymaurya/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0396-rotate-function](https://github.com/happymaurya/DSA/tree/master/0396-rotate-function) |
 | [0494-target-sum](https://github.com/happymaurya/DSA/tree/master/0494-target-sum) |
+| [0788-rotated-digits](https://github.com/happymaurya/DSA/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/happymaurya/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2463-minimum-total-distance-traveled](https://github.com/happymaurya/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/happymaurya/DSA/tree/master/2573-find-the-string-with-lcp) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/happymaurya/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0382-linked-list-random-node](https://github.com/happymaurya/DSA/tree/master/0382-linked-list-random-node) |
 | [0396-rotate-function](https://github.com/happymaurya/DSA/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/happymaurya/DSA/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/happymaurya/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/happymaurya/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/happymaurya/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
