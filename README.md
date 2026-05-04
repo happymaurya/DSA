@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/happymaurya/DSA/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/happymaurya/DSA/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/happymaurya/DSA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/happymaurya/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/happymaurya/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/happymaurya/DSA/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/happymaurya/DSA/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/happymaurya/DSA/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/happymaurya/DSA/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/happymaurya/DSA/tree/master/0304-range-sum-query-2d-immutable) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/happymaurya/DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/happymaurya/DSA/tree/master/0062-unique-paths) |
 | [0149-max-points-on-a-line](https://github.com/happymaurya/DSA/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/happymaurya/DSA/tree/master/0223-rectangle-area) |
