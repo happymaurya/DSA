@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/happymaurya/DSA/tree/master/0396-rotate-function) |
 | [0494-target-sum](https://github.com/happymaurya/DSA/tree/master/0494-target-sum) |
 | [0874-walking-robot-simulation](https://github.com/happymaurya/DSA/tree/master/0874-walking-robot-simulation) |
+| [1306-jump-game-iii](https://github.com/happymaurya/DSA/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/happymaurya/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/happymaurya/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/happymaurya/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/happymaurya/DSA/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/happymaurya/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/happymaurya/DSA/tree/master/0310-minimum-height-trees) |
+| [1306-jump-game-iii](https://github.com/happymaurya/DSA/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/happymaurya/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/happymaurya/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/happymaurya/DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/happymaurya/DSA/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/happymaurya/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/happymaurya/DSA/tree/master/0310-minimum-height-trees) |
+| [1306-jump-game-iii](https://github.com/happymaurya/DSA/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/happymaurya/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/happymaurya/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/happymaurya/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
