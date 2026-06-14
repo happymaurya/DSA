@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/happymaurya/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/happymaurya/DSA/tree/master/0394-decode-string) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/happymaurya/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/happymaurya/DSA/tree/master/2751-robot-collisions) |
 ## Divide and Conquer
 |  |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/happymaurya/DSA/tree/master/0146-lru-cache) |
 | [0328-odd-even-linked-list](https://github.com/happymaurya/DSA/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/happymaurya/DSA/tree/master/0382-linked-list-random-node) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/happymaurya/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/happymaurya/DSA/tree/master/0061-rotate-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/happymaurya/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/happymaurya/DSA/tree/master/1861-rotating-the-box) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/happymaurya/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/happymaurya/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/happymaurya/DSA/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/happymaurya/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
