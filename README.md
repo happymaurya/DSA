@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/happymaurya/DSA/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/happymaurya/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3689-maximum-total-subarray-value-i](https://github.com/happymaurya/DSA/tree/master/3689-maximum-total-subarray-value-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/happymaurya/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/happymaurya/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/happymaurya/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/happymaurya/DSA/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/happymaurya/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/happymaurya/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/happymaurya/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/happymaurya/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/happymaurya/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/happymaurya/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/happymaurya/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/happymaurya/DSA/tree/master/3225-maximum-score-from-grid-operations) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/happymaurya/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/happymaurya/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/happymaurya/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/happymaurya/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/happymaurya/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/happymaurya/DSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/happymaurya/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Geometry
 |  |
 | ------- |
@@ -463,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/happymaurya/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/happymaurya/DSA/tree/master/2833-furthest-point-from-origin) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/happymaurya/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -479,8 +484,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/happymaurya/DSA/tree/master/3161-block-placement-queries) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/happymaurya/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting Sort
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/happymaurya/DSA/tree/master/1833-maximum-ice-cream-bars) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/happymaurya/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
