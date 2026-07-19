@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/happymaurya/DSA/tree/master/0394-decode-string) |
 | [0657-robot-return-to-origin](https://github.com/happymaurya/DSA/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/happymaurya/DSA/tree/master/0796-rotate-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/happymaurya/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/happymaurya/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/happymaurya/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/happymaurya/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/happymaurya/DSA/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/happymaurya/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/happymaurya/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/happymaurya/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/happymaurya/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/happymaurya/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/happymaurya/DSA/tree/master/0394-decode-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/happymaurya/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/happymaurya/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/happymaurya/DSA/tree/master/2751-robot-collisions) |
 ## Divide and Conquer
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/happymaurya/DSA/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/happymaurya/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Two Pointers
 |  |
 | ------- |
