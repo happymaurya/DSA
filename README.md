@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/happymaurya/DSA/tree/master/0260-single-number-iii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/happymaurya/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0396-rotate-function](https://github.com/happymaurya/DSA/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/happymaurya/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/happymaurya/DSA/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/happymaurya/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/happymaurya/DSA/tree/master/0874-walking-robot-simulation) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/happymaurya/DSA/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/happymaurya/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0396-rotate-function](https://github.com/happymaurya/DSA/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/happymaurya/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/happymaurya/DSA/tree/master/0494-target-sum) |
 | [0788-rotated-digits](https://github.com/happymaurya/DSA/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/happymaurya/DSA/tree/master/0877-stone-game) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/happymaurya/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0382-linked-list-random-node](https://github.com/happymaurya/DSA/tree/master/0382-linked-list-random-node) |
 | [0396-rotate-function](https://github.com/happymaurya/DSA/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/happymaurya/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/happymaurya/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/happymaurya/DSA/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/happymaurya/DSA/tree/master/0877-stone-game) |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/happymaurya/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/happymaurya/DSA/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/happymaurya/DSA/tree/master/0486-predict-the-winner) |
 ## Linked List
 |  |
 | ------- |
@@ -636,5 +640,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/happymaurya/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/happymaurya/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
