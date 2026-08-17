@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/happymaurya/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/happymaurya/DSA/tree/master/1406-stone-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/happymaurya/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1563-stone-game-v](https://github.com/happymaurya/DSA/tree/master/1563-stone-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/happymaurya/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/happymaurya/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/happymaurya/DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/happymaurya/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/happymaurya/DSA/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/happymaurya/DSA/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/happymaurya/DSA/tree/master/1563-stone-game-v) |
 | [1871-jump-game-vii](https://github.com/happymaurya/DSA/tree/master/1871-jump-game-vii) |
 | [2463-minimum-total-distance-traveled](https://github.com/happymaurya/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/happymaurya/DSA/tree/master/2573-find-the-string-with-lcp) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/happymaurya/DSA/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/happymaurya/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/happymaurya/DSA/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/happymaurya/DSA/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/happymaurya/DSA/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/happymaurya/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/happymaurya/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -646,4 +649,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/happymaurya/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/happymaurya/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/happymaurya/DSA/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/happymaurya/DSA/tree/master/1563-stone-game-v) |
 <!---LeetCode Topics End-->
